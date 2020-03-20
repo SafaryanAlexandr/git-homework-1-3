@@ -1,11 +1,9 @@
-<<<<<<< HEAD
+HEAD
 :root {
     --main-blue-color: #264fb4;
     --promo-text-color: #f0f0f0;
 =======
 body {
-}
->>>>>>> parent of 03e67a8... Code cleanup
 
 .wrapper {
     max-width: 1920px;
@@ -52,4 +50,5 @@ footer {
     background: #1f1f1f;
     padding-top: 30px;
     padding-bottom: 10px;
+}
 }
